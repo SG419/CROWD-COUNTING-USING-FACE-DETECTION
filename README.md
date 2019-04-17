@@ -3,3 +3,5 @@ It is an Algorithm based on face counting on images , the result of which is sho
 ## This code also works on LIVE FACE COUNT DETECTTION AS WELL!!
 
 ![](friend.jpg)
+
+![](working.png)
